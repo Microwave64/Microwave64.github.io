@@ -1,1 +1,204 @@
+  body{
+            background-color:goldenrod;
+        }
+        
+        h1{text-align: center;}
+        
 
+        @media (min-width:992px) {
+            
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 29%;
+
+            }
+
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 35%;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;
+            }
+
+            .first{
+                background-color: brown;
+            }
+
+            .second{
+                background-color: green;
+            }
+
+        }    
+
+
+    @media (min-width: 768px) and (max-width: 991px) {
+            
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 45%;
+            }
+    
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 32%;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;    
+            }
+        
+            .third{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 94%; 
+            }   
+
+            .first{
+                background-color: brown;body{
+            background-color:goldenrod;
+        }
+        
+        h1{text-align: center;}
+        
+
+        @media (min-width:992px) {
+            
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 29%;
+
+            }
+
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 35%;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;
+            }
+
+            .first{
+                background-color: brown;
+            }
+
+            .second{
+                background-color: green;
+            }
+
+        }    
+
+
+    @media (min-width: 768px) and (max-width: 991px) {
+            
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 45%;
+            }
+    
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 32%;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;    
+            }
+        
+            .third{
+            
+        }
+        @media (max-width: 767px) {
+            
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 95%;
+            }
+    
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 32%;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;    
+            }
+    
+            .first{
+                background-color: brown;
+            }
+
+            .second{
+                background-color: green;
+            }
+            
+        }
+        
+
+
+
+        @media (max-width: 346px){
+            .out{
+                float: left;
+                box-sizing: border-box; 
+                border: 1px solid black;
+                margin: 2%;
+                background-color: rgb(134, 129, 179); 
+                width: 95%;
+            }
+    
+            .item{ 
+                float: right;
+                text-align: middle;
+                box-sizing: border-box;
+                border:1px solid black;
+                width: 106px;
+                background-color: grey;
+                margin: -1px -1px 5px 5px;    
+            }
+    
+            .first{
+                background-color: brown;
+            }
+
+            .second{
+                background-color: green;
+            }
+            
+        }
+
+        p{
+            clear: right;
+            color: aliceblue;
+            font-size: larger;
+        }
